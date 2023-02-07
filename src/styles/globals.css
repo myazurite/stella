@@ -1,0 +1,9 @@
+@font-face {
+    font-family: pixel;
+    src: url('../../public/fonts/VT323-Regular.ttf');
+}
+
+.logoName {
+    font-weight: 700;
+    font-family: pixel, sans-serif;
+}
